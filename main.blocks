@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="n_=sY76rmgr-#)JR.)27" x="225" y="20"><statement name="HANDLER"><block type="device_print_message" id="kZmd/e(]}K@Ur2KsH):7"><value name="text"><shadow type="text" id="QX}V5{/:jnVh76P*RFoL"><field name="TEXT">JAZIB</field></shadow></value><next><block type="device_show_leds" id="DZG:ja8kz~5L`{m{)^t_"><field name="LEDS">`
+        # # . # # 
+        # # . # # 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="device_pause" id="eOK0$(U/LNQM8Fj1QsjH"><value name="pause"><shadow type="timePicker" id="RQ~+IJ3Xx,{C5IopXk.?"><field name="ms">2000</field></shadow></value><next><block type="device_clear_display" id="0LEBAnMmccj8tlx/$RV0"/></next></block></next></block></next></block></statement></block></xml>
